@@ -1,20 +1,14 @@
 # BlackRoad-QI
 
-**Quantum intelligence research**
+**Quantum intelligence**
 
-Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure built from bare metal up.
-
----
+Part of [BlackRoad OS Enterprise](https://github.com/enterprises/blackroad-os) — sovereign infrastructure.
 
 | | |
 |---|---|
-| **Parent** | [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) |
+| **Enterprise** | [github.com/enterprises/blackroad-os](https://github.com/enterprises/blackroad-os) |
 | **Website** | [blackroad.io](https://blackroad.io) |
 | **Search** | [search.blackroad.io](https://search.blackroad.io) |
 | **Org Page** | [blackroad-qi.github.io](https://blackroad-qi.github.io) |
 
----
-
-> Built by [Alexa Amundson](https://blackroad.me). Delaware C-Corp. Founded November 2025.
-> 
-> 23 orgs · 2,280+ repos · 29 languages · 7 nodes · 52 TOPS
+> 34 orgs · 2,315+ repos · Pave Tomorrow.
